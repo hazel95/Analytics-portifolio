@@ -3,9 +3,9 @@
 I answered this question using a dataset from one of the leading telecoms companies in Africa. I turned this into a Power Bi dashboard combining both Power Query and DAX to transform raw data into insights.  
 
 My main focus was on   
-&nbsp;&nbsp;&nbsp;i) **Demographics**: Who is churning (age, gender, location).  
-&nbsp;&nbsp;&nbsp;ii)**Physcographics**: Why are they churning.  
-&nbsp;&nbsp;&nbsp;iii) What's the impact on business (revenue) and how can we rectify.  
+i) **Demographics**: Who is churning (age, gender, location).  
+ii)**Physcographics**: Why are they churning.  
+iii) What's the impact on business (revenue) and how can we rectify.  
 
 **PROCESS**  
 1)Data Cleaning & Preparation  
