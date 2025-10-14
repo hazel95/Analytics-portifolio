@@ -8,17 +8,16 @@ ii)**Physcographics**: Why are they churning.
 iii) What's the impact on business (revenue) and how can we rectify.  
 
 **PROCESS**  
-1)Data Cleaning & Preparation  
-     &nbsp;&nbsp;&nbsp; •	Removed duplicates and irrelevant columns and handled missing values  
-     &nbsp;&nbsp;&nbsp; •	Creating conditional columns for grouping customers  
-      &nbsp;&nbsp;&nbsp; •	Tools used: Excel, Power Query Editor   
+•	Removed duplicates and irrelevant columns and handled missing values  
+•	Creating conditional columns for grouping customers  
+•	Tools used: Excel, Power Query Editor   
 2)Data Modelling  
-      &nbsp;&nbsp; •	Built DAX measures for KPIs like:  
-         &nbsp;&nbsp;&nbsp;    o	Churn Rate   
-         &nbsp;&nbsp;&nbsp;   o	Active Revenue, Churned Revenue, Customer Count by Segment  
-          &nbsp;&nbsp;&nbsp;  o	Total revenue, Active Revenue  
+Built DAX measures for KPIs like:  
+o	Churn Rate   
+o	Active Revenue, Churned Revenue, Customer Count by Segment  
+o	Total revenue, Active Revenue  
 3)Reports  
-     &nbsp;&nbsp;&nbsp; Power Bi   
+Power Bi   
 
 
 
