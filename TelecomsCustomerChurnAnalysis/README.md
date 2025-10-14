@@ -7,7 +7,7 @@ i) **Demographics**: Who is churning (age, gender, location).
 ii)**Physcographics**: Why are they churning.  
 iii) What's the impact on business (revenue) and how can we rectify.  
 
-**PROCESS** 
+PROCESS  
 1)Data preparation..
 •	Removed duplicates and irrelevant columns and handled missing values  
 •	Creating conditional columns for grouping customers  
